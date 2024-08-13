@@ -1,0 +1,3 @@
+# MiniProject
+
+Simon Says Game
